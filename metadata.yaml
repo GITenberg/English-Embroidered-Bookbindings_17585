@@ -1,0 +1,41 @@
+_repo: English-Embroidered-Bookbindings_17585
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davenport, Cyril
+    alias: Davenport, Cyril James Humphries
+    birthdate: 1848
+    deathdate: 1941
+    gutenberg_agent_id: '7474'
+    url: http://www.gutenberg.org/2009/agents/7474
+  editor:
+    agent_name: Pollard, Alfred W. (Alfred William)
+    aliases:
+    - Pollard, A. W. (Alfred William)
+    - Pollard, Alfred William
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '7475'
+    url: http://www.gutenberg.org/2009/agents/7475
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bookbinding -- England'
+- !lcsh 'Embroidered bindings (Bookbinding)'
+- !lcc 'Z'
+title: English Embroidered Bookbindings
+url: http://www.gutenberg.org/ebooks/17585

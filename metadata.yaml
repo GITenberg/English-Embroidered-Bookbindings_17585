@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7475
     wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17585#English-Embroidered-Bookbindings
 gutenberg_bookshelf:
 - Technology
 - Crafts
